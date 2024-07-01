@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: darkcyan;
 }
 
 .App-logo {
@@ -35,4 +36,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.loading{
+  background-color: green;
+}
+button{
+
+  padding: 10px;
+  margin: 10px;
+  background-color: red;
+  cursor: pointer;
+  border-radius: 18px;
+
+}
+button:hover{
+  background-color: gold;
+  border-radius: 20px;
 }
