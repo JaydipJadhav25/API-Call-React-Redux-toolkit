@@ -7,4 +7,4 @@
  https://chrome.google.com/webstore/de...
 
  ```
- "./result2.png"
+ <image src="./result2.png">
